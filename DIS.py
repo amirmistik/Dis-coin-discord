@@ -5,7 +5,7 @@ from discord.ext import commands
 import discord
 import sqlite3
 
-TOKEN = "ODU3NzA3OTA3NTMzMTExMzE2.YNTgvA.Jo7Wd656dJlnuAZURSONj9-aIRQ"
+TOKEN = ""
 
 bot = discord.Client()
 
